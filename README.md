@@ -27,6 +27,12 @@ I'm currently a Fellow at Break Through Tech, where I just completed the Machine
 
 **Databases:** SQL, MySQL 
 
+## Project:
+
+### 🎮 Match Game
+A simple browser-based memory card matching game built with HTML, CSS, and JavaScript.  
+🔗 [View Project](https://github.com/wberri13/match-game) • [Live Demo](https://wberri13.github.io/match-game)
+
 ## 📫 Contact Me:
 **Email:** wberri13@gmail.com 
 
