@@ -5,7 +5,7 @@
 📚 Currently learning Python, data analysis, and machine learning through Break Through Tech.  
 🌟 I'm excited to keep building, learning, and growing as a developer.
 
-## 🤔 What I'm up to
+## 🤔 What I'm Up To
 
 I'm currently a Fellow at Break Through Tech, where I just completed the Machine Learning Foundations course.  
 **Next up:** AI Studio, where I'll be applying what I’ve learned by building real-world projects with machine learning!
