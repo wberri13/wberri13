@@ -5,16 +5,23 @@
 📚 Currently learning Python, data analysis, and machine learning through Break Through Tech.  
 🌟 I'm excited to keep building, learning, and growing as a developer.
 
-🛠 Tech Stack:
+## 🤔 What I'm up to
+
+I'm currently a Fellow at Break Through Tech, where I just completed the Machine Learning Foundations course.  
+**Next up:** AI Studio, where I'll be applying what I’ve learned by building real-world projects with machine learning!
+
+
+
+## 🛠 Tech Stack:
 **Languages:** Python, Java, C++  
 **Data Science:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib 
 **Web Dev:** HTML, CSS, JavaScript, Node.js  
 **Tools:** Jupyter, Git, Flask, React Native  
 **Databases:** SQL, MySQL 
 
-📫 Contact Me:
-Email: wberri13@gmail.com 
-LinkedIn: https://www.linkedin.com/in/wafa-berri/
+## 📫 Contact Me:
+**Email:** wberri13@gmail.com 
+**LinkedIn:** https://www.linkedin.com/in/wafa-berri/
 <!--
 **wberri13/wberri13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
