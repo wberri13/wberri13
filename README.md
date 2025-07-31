@@ -14,9 +14,13 @@ I'm currently a Fellow at Break Through Tech, where I just completed the Machine
 
 ##  Tech Stack:
 **Languages:** Python, Java, C++
+
 **Web Dev:** HTML, CSS, JavaScript, Node.js 
+
 **Data Science:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
+
 **Tools:** Jupyter, Git, Flask, React Native  
+
 **Databases:** SQL, MySQL 
 
 ## 📫 Contact Me:
